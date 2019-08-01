@@ -5,9 +5,9 @@
   <subtitle>Carpe Diem</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://tallinzp.github.io/"/>
   <updated>2019-08-01T15:56:43.194Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://tallinzp.github.io/</id>
   
   <author>
     <name>Tal</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>MyTestContent</title>
-    <link href="http://yoursite.com/2019/08/01/MyTestContent/"/>
-    <id>http://yoursite.com/2019/08/01/MyTestContent/</id>
+    <link href="https://tallinzp.github.io/2019/08/01/MyTestContent/"/>
+    <id>https://tallinzp.github.io/2019/08/01/MyTestContent/</id>
     <published>2019-08-01T15:55:26.000Z</published>
     <updated>2019-08-01T15:56:43.194Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/08/01/hello-world/"/>
-    <id>http://yoursite.com/2019/08/01/hello-world/</id>
+    <link href="https://tallinzp.github.io/2019/08/01/hello-world/"/>
+    <id>https://tallinzp.github.io/2019/08/01/hello-world/</id>
     <published>2019-08-01T12:10:22.594Z</published>
     <updated>2019-08-01T12:10:22.594Z</updated>
     
@@ -49,10 +49,10 @@
     
     </summary>
     
-      <category term="Nothing" scheme="http://yoursite.com/categories/Nothing/"/>
+      <category term="Nothing" scheme="https://tallinzp.github.io/categories/Nothing/"/>
     
     
-      <category term="Nothing" scheme="http://yoursite.com/tags/Nothing/"/>
+      <category term="Nothing" scheme="https://tallinzp.github.io/tags/Nothing/"/>
     
   </entry>
   
